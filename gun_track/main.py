@@ -5,7 +5,7 @@ import time
 import requests
 from datetime import datetime
 
-LINE_ACCESS_TOKEN = "Z3nFlOBYdaPDdmLD3FIch5dH35MJywumKXYtjOTLUr5"
+LINE_ACCESS_TOKEN = "LINE_ACCESS_TOKEN"
 url = "https://notify-api.line.me/api/notify"
 
 location = "location"
