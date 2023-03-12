@@ -16,3 +16,6 @@
 
 ## วิธีติดตั้ง
 $ pip install - r requirements.txt
+
+## ตัวอย่าง
+![1](https://user-images.githubusercontent.com/104154862/224524562-4fa431b8-bb3b-4508-9dcb-6cf3b8c6b018.png)
